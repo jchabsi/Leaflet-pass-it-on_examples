@@ -8,8 +8,7 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 //This is a marker
-var marker = L.marker([-32.939947, -60.653590])
-marker.addTo(mymap);
+var marker = L.marker([-32.939947, -60.653590]).addTo(mymap);
 var marker2 = L.marker([-32.953865, -60.657382]).addTo(mymap);
 
 //We can draw circles

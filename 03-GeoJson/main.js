@@ -11,7 +11,7 @@ var geojsonFeature = [{
     "type": "Feature",
     "properties": {
         "name": "Cascada Arroyo Saladillo",        
-        "popupContent": "La octava maravilla!"
+        "popupContent": "La octava maravilla! :P"
     },
     "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@ var geojsonFeature = [{
 {
     "type": "Feature",
     "properties": {
-        "name": "Entubado del Arroyo Ludueña",
+        "name": "Barrio Tiro Suizo",
         "popupContent": "El barrio de mi infancia!"
     },
     "geometry": {
